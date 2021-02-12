@@ -1,2 +1,2 @@
 # FruitsProject
-a database made with mongoDB (native driver)
+a database made with mongoDB (native driver) with node js
